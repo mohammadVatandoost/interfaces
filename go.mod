@@ -1,4 +1,4 @@
-module github.com/mohammadVatandoost/interfaces/golang
+module github.com/mohammadVatandoost/interfaces
 
 go 1.19
 
